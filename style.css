@@ -60,9 +60,13 @@ hr{
     border-bottom-left-radius: 1rem;
 }
 
-.navigation .nav-brand{
+.navigation{
     font-weight: bold;
     font-size: large;
+}
+
+.nav-brand{
+    font-size: 30px;
 }
 
 .navigation .link{
